@@ -1,9 +1,10 @@
 {
-  "show_dialog": true,
+  "show_dialog": false,
   "title": " github InstaPro V12.80",
   "message": "Please update your application!",
   "button_text": "Update",
   "button_url": "https://www.instamod.co"
 
 }
+
 
